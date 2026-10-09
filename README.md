@@ -82,6 +82,6 @@ Please cite the associated manuscript if you use this material
 **ORCID:** [0000-0001-5784-8481](https://orcid.org/0000-0001-5784-8481)
 
 ## Licence
-
+This supplementary material is released under the license specified in this repository.
 ## Corrections
 Please report issues with the affected study ID, worksheet, category or cell, and supporting source details. Where possible, include a page or section locator and explain the proposed correction. Contact the corresponding creator.
