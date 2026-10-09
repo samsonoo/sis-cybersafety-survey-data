@@ -68,8 +68,8 @@ Table S10 assigns states to individual method-family/issue-dimension relations:
 
 A source's overall evidence class does not automatically determine these states. State 3 remains bounded by the reported configuration and evaluation scope; it is not an overall method-quality or plant-suitability rating.
 
-## Citation and versioning
-
+## Citation 
+Please cite the associated manuscript if you use this material
 
 ## Dataset creators
 - Samson O. Oruma
