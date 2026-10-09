@@ -83,5 +83,3 @@ Please cite the associated manuscript if you use this material
 
 ## Licence
 This supplementary material is released under the license specified in this repository.
-## Corrections
-Please report issues with the affected study ID, worksheet, category or cell, and supporting source details. Where possible, include a page or section locator and explain the proposed correction. Contact the corresponding creator.
